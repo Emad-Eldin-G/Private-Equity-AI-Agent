@@ -1,0 +1,4 @@
+pydantic-ai
+aiofiles
+pydantic
+streamlit

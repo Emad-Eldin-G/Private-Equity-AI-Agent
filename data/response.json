@@ -1,0 +1,38 @@
+[
+  {
+    "questionnaire_id": "1a59843c-9ade-4b6d-8961-215c44c9ca6a",
+    "decision": "Approve",
+    "missing_fields": null,
+    "escalation_reason": null
+  },
+  {
+    "questionnaire_id": "2b67890d-1bfg-5c7e-9012-326d55d0db7b",
+    "decision": "Return",
+    "missing_fields": [
+      "investment_amount",
+      "tax_id_provided"
+    ],
+    "escalation_reason": null
+  },
+  {
+    "questionnaire_id": "3c78912e-2cgh-6d8f-0123-437e66e1ec8c",
+    "decision": "Escalate",
+    "missing_fields": null,
+    "escalation_reason": "Ambiguous source of funds"
+  },
+  {
+    "questionnaire_id": "4d89023f-3dhi-7e9g-1234-548f77f2fd9d",
+    "decision": "Return",
+    "missing_fields": [
+      "investor_address",
+      "signature_present"
+    ],
+    "escalation_reason": null
+  },
+  {
+    "questionnaire_id": "5e90134g-4eij-8f0h-2345-659g88g3ge0e",
+    "decision": "Escalate",
+    "missing_fields": null,
+    "escalation_reason": "Investor is not accredited"
+  }
+]

@@ -1,0 +1,80 @@
+{
+    "keywords": [
+        "winnings",
+        "prize money",
+        "jackpot",
+        "poker",
+        "betting",
+        "gambling",
+        "sports betting",
+        "blackjack",
+        "casino",
+        "lottery",
+        "lottery winnings",
+        "roulette",
+        "online casino",
+        "cryptocurrency",
+        "bitcoin",
+        "ethereum",
+        "crypto",
+        "various",
+        "including",
+        "family contributions",
+        "gift",
+        "tbd",
+        "undisclosed",
+        "pending",
+        "to be determined",
+        "under review",
+        "black market",
+        "undisclosed source",
+        "private",
+        "confidential"
+    ],
+    "patterns": [
+        {
+            "pattern": "\\?",
+            "description": "Question marks indicating uncertainty"
+        },
+        {
+            "pattern": "\\.{3,}",
+            "description": "Ellipsis indicating incomplete information"
+        },
+        {
+            "pattern": "undisclosed",
+            "description": "Undisclosed information"
+        },
+        {
+            "pattern": "pending",
+            "description": "Pending status"
+        },
+        {
+            "pattern": "to be determined",
+            "description": "TBD variations"
+        },
+        {
+            "pattern": "not specified",
+            "description": "Missing information"
+        },
+        {
+            "pattern": "various sources",
+            "description": "Vague sources"
+        },
+        {
+            "pattern": "including",
+            "description": "Incomplete information"
+        },
+        {
+            "pattern": "black market",
+            "description": "Illegal activities"
+        },
+        {
+            "pattern": "confidential",
+            "description": "Hidden information"
+        },
+        {
+            "pattern": "inherited from",
+            "description": "inheritance-related phrases"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+[
+  {
+    "questionnaire_id": "1a59843c-9ade-4b6d-8961-215c44c9ca6a",
+    "investor_name": "Mr and Mrs Simpson",
+    "investor_type": "Joint Tenants",
+    "investor_address": "25, Springfield, New Jersey, United States",
+    "investment_amount": 250000,
+    "is_accredited_investor": true,
+    "accreditation_details": "Joint Income over $300k for past two years with expectation to continue.",
+    "source_of_funds_description": "Personal savings and employment income.",
+    "tax_id_provided": true,
+    "signature_present": true,
+    "submission_date": "2025-04-30"
+  },
+  {
+    "questionnaire_id": "2b67890d-1bfg-5c7e-9012-326d55d0db7b",
+    "investor_name": "Example Corp.",
+    "investor_type": "Entity",
+    "investor_address": "123 Main St, Anytown, CA 90210, United States",
+    "investment_amount": null,
+    "is_accredited_investor": true,
+    "accreditation_details": "Entity with total assets in excess of $5M, not formed for specific purpose.",
+    "source_of_funds_description": "Sale of previous business.",
+    "tax_id_provided": false,
+    "signature_present": true,
+    "submission_date": "2025-05-01"
+  },
+  {
+    "questionnaire_id": "3c78912e-2cgh-6d8f-0123-437e66e1ec8c",
+    "investor_name": "Investor Three",
+    "investor_type": "Natural Person",
+    "investor_address": "456 Oak Ave, Sometown, TX 75001, United States",
+    "investment_amount": 750000,
+    "is_accredited_investor": true,
+    "accreditation_details": "Holds Series 7, 65 licenses in good standing.",
+    "source_of_funds_description": "Various sources including family contributions.",
+    "tax_id_provided": true,
+    "signature_present": true,
+    "submission_date": "2025-05-01"
+  },
+  {
+    "questionnaire_id": "4d89023f-3dhi-7e9g-1234-548f77f2fd9d",
+    "investor_name": "Investor Four Trust",
+    "investor_type": "Trust",
+    "investor_address": null,
+    "investment_amount": 100000,
+    "is_accredited_investor": true,
+    "accreditation_details": "Trust with total assets over $5M, directed by sophisticated person.",
+    "source_of_funds_description": "Investment portfolio.",
+    "tax_id_provided": true,
+    "signature_present": false,
+    "submission_date": "2025-05-02"
+  },
+  {
+    "questionnaire_id": "5e90134g-4eij-8f0h-2345-659g88g3ge0e",
+    "investor_name": "Investor Five",
+    "investor_type": "Natural Person",
+    "investor_address": "789 Pine Rd, Villagetown, FL 33301, United States",
+    "investment_amount": 50000,
+    "is_accredited_investor": false,
+    "accreditation_details": "Does not meet income or net worth requirements.",
+    "source_of_funds_description": "Savings.",
+    "tax_id_provided": true,
+    "signature_present": true,
+    "submission_date": "2025-05-02"
+  }
+]
